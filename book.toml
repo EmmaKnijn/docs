@@ -4,3 +4,7 @@ title = "NDOV Loket Docs"
 
 [build]
 build-dir = "out"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "rust"
